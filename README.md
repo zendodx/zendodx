@@ -1,6 +1,8 @@
-# Hi there 👋
+## 技术栈
 
-## 个人项目
+全栈开发、VibeCoding、AI
+
+## 项目列表
 
 ### AI类
 
