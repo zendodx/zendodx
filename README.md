@@ -14,12 +14,12 @@
 - [JenaFuseki Spring Starter](https://github.com/zendodx/jena-fuseki-spring-boot-starter)
 - [JenaFuseki Spring Starter示例](https://github.com/zendodx/jena-fuseki-spring-boot-starter-example)
 
-### 使用工具类
+### 实用工具类
 
 - [简历制作工具]( https://github.com/zendodx/super-resume-free)
 - [贝壳二手房工具](https://github.com/zendodx/bk-spider-ts)
 
-### 編程类
+### Web后台类
 
 - [Java版开放API脚手架 ](https://github.com/zendodx/openapi4j-cli)
 
