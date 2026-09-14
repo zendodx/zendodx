@@ -16,7 +16,7 @@
 
 ### 使用工具类
 
-- [超级简历复刻版工具]( https://github.com/zendodx/super-resume-free)
+- [简历制作工具]( https://github.com/zendodx/super-resume-free)
 - [贝壳二手房工具](https://github.com/zendodx/bk-spider-ts)
 
 ### 編程类
